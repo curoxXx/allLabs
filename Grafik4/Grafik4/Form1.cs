@@ -10,7 +10,6 @@ namespace Grafik4
         private Bitmap originalImage;
         private Bitmap affineImage;
         private Bitmap nonlinearImage;
-        private Bitmap inverseAffineImage;
 
         public Form1()
         {
