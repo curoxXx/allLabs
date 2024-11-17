@@ -98,7 +98,7 @@ namespace grafika3lab
             Bitmap finalImage = OverlayImages(processedImage1, processedImage2);
             finalImage.Save("final_output.png", ImageFormat.Png);
 
-            Console.WriteLine("Изображения успешно обработаны, наложены и сохранены.");
+            Console.WriteLine("Изображения успешно обработаны, наложены и сохранены grafika3lab|bin|Debug.");
         }
     }
 }
